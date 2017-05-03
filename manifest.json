@@ -21,7 +21,7 @@
         "homepage": "https://www.qwant.com/?client=qwant-chrome",
         "search_provider": {
             "name": "Qwant.com",
-            "keyword": "q",
+            "keyword": "qwant.com",
             "search_url": "https://www.qwant.com/?q={searchTerms}&client=qwant-chrome",
             "favicon_url": "https://www.qwant.com/favicon.ico",
             "suggest_url": "https://api.qwant.com/api/suggest/?q={searchTerms}&client=qwant-chrome",
